@@ -26,4 +26,7 @@ Usually it is copper wiring, however don't buy . But you can add aluminium wirin
 - Home ispectors -
 
 # Never buy these homes in Canada. 
+- Wrong location - (it can be a flood zone)
+
+
 
