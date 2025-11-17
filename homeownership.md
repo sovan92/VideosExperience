@@ -23,4 +23,7 @@ Usually it is copper wiring, however don't buy . But you can add aluminium wirin
 - Air system circulaion
 - If vent in home, do a full duct cleaning . This is a fire hazard. (Lint trapped in moisture. )
 - Air filter should be changed in 3 months.
-- Home ispectors - 
+- Home ispectors -
+
+# Never buy these homes in Canada. 
+
