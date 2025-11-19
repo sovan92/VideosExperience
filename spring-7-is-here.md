@@ -5,3 +5,7 @@
 - Use Java 17 , Java 25 . 
 - Structured Concurrency 
 - Pattern matching for switches . 
+- Records , Sealed classes , Patern matching .
+- API design
+- Spring 7 has better versioning , where we do a header based versioning .
+- Deprication handling - Sping adds depricated version . Spring adds contract validation . 
